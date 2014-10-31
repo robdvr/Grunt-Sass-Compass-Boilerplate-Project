@@ -3,6 +3,8 @@ Grunt-Sass-Compass-Boilerplate Project
 
 A simple grunt project with live reloading, compass, sass, jshint, uglify, and connect.
 
+Pull requests are welcome!
+
 ## Requirements
 * npm (node package manager)
 * Node.js
